@@ -1,0 +1,7 @@
+C:\Users\pc\Desktop\PROJETO MOVERE\Projeto MOVERE\obj\Debug\Projeto MOVERE.csproj.AssemblyReference.cache
+C:\Users\pc\Desktop\PROJETO MOVERE\Projeto MOVERE\obj\Debug\Projeto MOVERE.csproj.CoreCompileInputs.cache
+C:\Users\pc\Desktop\PROJETO MOVERE\Projeto MOVERE\bin\Debug\Projeto MOVERE.exe.config
+C:\Users\pc\Desktop\PROJETO MOVERE\Projeto MOVERE\bin\Debug\Projeto MOVERE.exe
+C:\Users\pc\Desktop\PROJETO MOVERE\Projeto MOVERE\bin\Debug\Projeto MOVERE.pdb
+C:\Users\pc\Desktop\PROJETO MOVERE\Projeto MOVERE\obj\Debug\Projeto MOVERE.exe
+C:\Users\pc\Desktop\PROJETO MOVERE\Projeto MOVERE\obj\Debug\Projeto MOVERE.pdb
