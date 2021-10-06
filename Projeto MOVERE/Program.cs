@@ -25,7 +25,7 @@ namespace Projeto_MOVERE
         // AQUI É APENAS O MENU INICAL PARA VISUALIZACAO
         MenuInicial:
             Console.Clear();
-            Console.WriteLine("==============MENU==================\n1 - Cadastrar Banco e Saldo\n2 - Cadastrar Categoria\n3 - Listar Bancos e Saldo\n4 - Listar Categorias\n5 - Lançar Contas\n6 - Listar Contas e Saldos\n7 - Sair\n====================================");
+            Console.WriteLine("==============MENU==================\n1 - Cadastrar Banco e Saldo\n2 - Cadastrar Categoria\n3 - Listar Bancos e Saldo\n4 - Listar Categorias\n5 - Lançar Contas\n6 - Sair\n====================================");
             Console.Write("Sua opção: ");
             // VARIAVEL QUE RECEBE A OPCAO DIGITADA
             opcao = int.Parse(Console.ReadLine());
@@ -80,10 +80,6 @@ namespace Projeto_MOVERE
                     Console.ReadLine();
                     goto MenuInicial;
                 case 6:
-                    Console.Write("Pressione ENTER para voltar ao menu");
-                    Console.ReadLine();
-                    goto MenuInicial;
-                case 7:
                     break;
                 default:
                     Console.WriteLine("Opcao inválida");
